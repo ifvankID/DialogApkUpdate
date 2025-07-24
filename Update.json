@@ -1,5 +1,5 @@
 {
-  "versionCode": 2,
+  "versionCode": 2.0,
   "forceUpdate": true,
   "apkUrl": "https://example.com/your-app.apk",
   "changelog": "- Fitur baru\n- Perbaikan bug\n- UI lebih keren"
